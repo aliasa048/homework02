@@ -1,0 +1,22 @@
+img{
+    height: 250px;
+    width: 400px;
+    border-bottom: 50px solid coral;
+    border-top: 50px solid coral;
+    
+    
+}
+.img-aria{
+    border: 20px solid greenyellow;
+    width: fit-content;
+}
+.border{
+    border: 20px solid yellow;
+    width: fit-content;
+}
+.margin{
+    margin: auto;
+    margin-top: 250px;
+    border: 20px solid goldenrod;
+    width: fit-content;
+}
